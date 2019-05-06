@@ -27,6 +27,9 @@ return newFacts;
 
 function iLoveTheBeatles(num) {
   var array = [];
-  do 
+do {
+    factorial *= counter--;
+} while (counter > 0);
+console.log(factorial);
   
 }
