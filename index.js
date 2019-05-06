@@ -1,3 +1,5 @@
-var musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
-var instruments = ["guitar", "piano", ]
-function theBeatlesPlay()
+const musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
+const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
+function theBeatlesPlay(musicians,instruments) {
+  var = [""]
+}
