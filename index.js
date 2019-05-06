@@ -17,7 +17,7 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
 function johnLennonFacts(facts) {
 var newFacts=[];
 var i = 0;
-while (i < 3) {
+while (i < 4) {
 
 newFacts[i] = facts[i] +"!!!";
 i++;
