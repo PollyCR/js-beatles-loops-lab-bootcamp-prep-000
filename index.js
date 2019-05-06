@@ -25,4 +25,8 @@ i++;
 return newFacts;
 }
 
-function iLoveTheBeatles(1) {
+function iLoveTheBeatles(num) {
+  var array = [];
+  do 
+  
+}
